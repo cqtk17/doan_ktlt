@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\admin\source\repos\22120014_Project\Project\Header.h(226,17): warning C4566: character represented by universal-character-name '\u1ECD' cannot be represented in the current code page (1252)
+C:\Users\admin\source\repos\22120014_Project\Project\Header.h(226,17): warning C4566: character represented by universal-character-name '\u1EDB' cannot be represented in the current code page (1252)
+C:\Users\admin\source\repos\22120014_Project\Project\Header.h(238,17): warning C4566: character represented by universal-character-name '\u1ECD' cannot be represented in the current code page (1252)
+C:\Users\admin\source\repos\22120014_Project\Project\Header.h(238,17): warning C4566: character represented by universal-character-name '\u1EDB' cannot be represented in the current code page (1252)
+  Project.vcxproj -> C:\Users\admin\source\repos\22120014_Project\Debug\Project.exe
